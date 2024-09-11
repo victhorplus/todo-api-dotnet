@@ -30,3 +30,7 @@
 /Users/victhor/Dev/TodoApi/obj/Debug/net8.0/TodoApi.pdb
 /Users/victhor/Dev/TodoApi/obj/Debug/net8.0/TodoApi.genruntimeconfig.cache
 /Users/victhor/Dev/TodoApi/obj/Debug/net8.0/ref/TodoApi.dll
+/Users/victhor/Dev/TodoApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/victhor/Dev/TodoApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/victhor/Dev/TodoApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/victhor/Dev/TodoApi/obj/Debug/net8.0/TodoApi.sourcelink.json
